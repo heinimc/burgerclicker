@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import iconburger from './icon-burger.png';
-import iconboy from './icon-boy.png';
-import iconcoupon from './icon-coupon.png';
+import iconburger from './images/icon-burger.png';
+import iconboy from './images/icon-boy.png';
+import iconcoupon from './images/icon-coupon.png';
 
 function Menu(props){
     return(
